@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gie-sta
-- 👀 I’m interested in Frontend development
+- 👀 I’m interested in Frontend development and looking forward to start my career as frontend developer. 
 
 
 <!---
